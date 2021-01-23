@@ -7,6 +7,7 @@
 [submodule "ordering-food"]
 	path = ordering-food
 	url = https://github.com/apicloudcom/ordering-food
+	branch = main
 [submodule "online-dress"]
 	path = online-dress
 	url = https://github.com/apicloudcom/online-dress
