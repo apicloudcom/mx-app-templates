@@ -14,3 +14,7 @@
 [submodule "avm-simple"]
 	path = avm-simple
 	url = https://github.com/apicloudcom/avm-simple
+[submodule "education-training"]
+	path = education-training
+	url = https://github.com/apicloudcom/education-training
+	branch = main

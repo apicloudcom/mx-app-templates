@@ -71,3 +71,23 @@ APICloud [数据云3.0](https://docs.apicloud.com/Cloud-API/sentosa?uzchannel=30
 ![preview](https://github.com/apicloudcom/online-dress/raw/main/docs/preview.jpg)
 
 
+## 6. 《教育培训》[education-training](https://github.com/apicloudcom/education-training) ![GitHub Repo stars](https://img.shields.io/github/stars/apicloudcom/education-training?style=social)
+
+` 源码地址 ` https://github.com/apicloudcom/education-training
+
+` 项目说明 `
+此项目是一个教育培训的机构服务应用，包括了线上线下课的课程展示、师资力量的名师名片展示、在线预约、在线下单购买课程、用户订单预约管理等功能。
+
+` 技术要点 `
+本项目在开发过程中，在“能拆就拆”的思想下，对项目进行细粒度的组件化拆解。 可以从中了解到组件拆分逻辑和一些操作技巧，对自定义组件进行巩固。
+
+1. 组件的高级使用方法：诸如使用条件渲染、引入自定义函数对模板节点进行处理和继承，以及特殊节点 children 等使用 。
+2. 组件的设计流程：例如实现 a-tabs ，对于复杂的组件可以先定义使用外观，然后反向填充细节逻辑。
+3. 组件的设计原则：多出重复的页面结构就需要考虑提炼和归纳。设计出来的组件需要易用、简洁。
+
+
+` 截图展示 `
+
+![preview](https://github.com/apicloudcom/education-training/raw/main/docs/preview.jpg)
+
+
