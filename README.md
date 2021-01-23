@@ -1,6 +1,7 @@
 # APICloud 多端应用模板合集
 
-> 本仓库中包含的项目都是基于APICloud多端技术开发的应用。
+> 本仓库中包含的项目都是基于APICloud多端技术开发的应用。 建议直接点击对应仓库检出单个项目作为学习研究。
+> 如需在本仓库一并检出子模块，使用  ` clone `  命令时请添加  ` --recursive `  参数。
 
 ## 1. 《快速上手》[hello-app](https://github.com/apicloudcom/hello-app) ![GitHub Repo stars](https://img.shields.io/github/stars/apicloudcom/hello-app?style=social)
 
@@ -70,7 +71,6 @@ APICloud [数据云3.0](https://docs.apicloud.com/Cloud-API/sentosa?uzchannel=30
 
 ![preview](https://github.com/apicloudcom/online-dress/raw/main/docs/preview.jpg)
 
-
 ## 6. 《教育培训》[education-training](https://github.com/apicloudcom/education-training) ![GitHub Repo stars](https://img.shields.io/github/stars/apicloudcom/education-training?style=social)
 
 ` 源码地址 ` https://github.com/apicloudcom/education-training
@@ -84,7 +84,6 @@ APICloud [数据云3.0](https://docs.apicloud.com/Cloud-API/sentosa?uzchannel=30
 1. 组件的高级使用方法：诸如使用条件渲染、引入自定义函数对模板节点进行处理和继承，以及特殊节点 children 等使用 。
 2. 组件的设计流程：例如实现 a-tabs ，对于复杂的组件可以先定义使用外观，然后反向填充细节逻辑。
 3. 组件的设计原则：多出重复的页面结构就需要考虑提炼和归纳。设计出来的组件需要易用、简洁。
-
 
 ` 截图展示 `
 
