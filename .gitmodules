@@ -1,0 +1,12 @@
+[submodule "hello-app"]
+	path = hello-app
+	url = https://github.com/apicloudcom/hello-app
+[submodule "company-display"]
+	path = company-display
+	url = https://github.com/apicloudcom/company-display
+[submodule "ordering-food"]
+	path = ordering-food
+	url = https://github.com/apicloudcom/ordering-food
+[submodule "online-dress"]
+	path = online-dress
+	url = https://github.com/apicloudcom/online-dress
