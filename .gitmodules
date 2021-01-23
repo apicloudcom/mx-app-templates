@@ -10,3 +10,6 @@
 [submodule "online-dress"]
 	path = online-dress
 	url = https://github.com/apicloudcom/online-dress
+[submodule "avm-simple"]
+	path = avm-simple
+	url = https://github.com/apicloudcom/avm-simple
