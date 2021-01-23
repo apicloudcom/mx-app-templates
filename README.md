@@ -89,4 +89,17 @@ APICloud [数据云3.0](https://docs.apicloud.com/Cloud-API/sentosa?uzchannel=30
 
 ![preview](https://github.com/apicloudcom/education-training/raw/main/docs/preview.jpg)
 
+## 6. 《生鲜电商》[fresh-ec](https://github.com/apicloudcom/fresh-ec) ![GitHub Repo stars](https://img.shields.io/github/stars/apicloudcom/fresh-ec?style=social)
 
+` 源码地址 ` https://github.com/apicloudcom/fresh-ec
+
+` 项目说明 `
+此项目为生鲜电商类应用，主要功能包括商品列表、商品详情展示、购物车、登录注册、个人中心等。也是2.x版本的培训课程项目升级到3.x的一个典型案例。
+
+` 技术要点 `
+项目中前端采用 avm 多端开发技术进行开发，要点包括 scroll-view 滚动视图、下拉刷新、输入处理、swiper 轮播图、网络请求封装等。 使用 APICloud 多端技术进行开发，实现一套代码多端运行，支持编译成 Android
+& iOS App 以及微信小程序。
+
+` 截图展示 `
+
+![preview](https://github.com/apicloudcom/fresh-ec/raw/main/docs/preview.jpg)

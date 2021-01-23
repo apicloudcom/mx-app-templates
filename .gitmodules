@@ -18,3 +18,7 @@
 	path = education-training
 	url = https://github.com/apicloudcom/education-training
 	branch = main
+[submodule "fresh-ec"]
+	path = fresh-ec
+	url = https://github.com/apicloudcom/fresh-ec/
+	branch = main
