@@ -21,9 +21,6 @@
 在项目的 [组件集合示例](https://github.com/apicloudcom/avm-simple/tree/master/%E7%BB%84%E4%BB%B6%E7%A4%BA%E4%BE%8B%E5%90%88%E9%9B%86)
 中展示了基础组件的调用效果，可以体验和预览组件的样式和交互。
 
-在项目的 [多端案例-生鲜电商](https://github.com/apicloudcom/avm-simple/tree/master/%E5%A4%9A%E7%AB%AF%E6%A1%88%E4%BE%8B-%E7%94%9F%E9%B2%9C%E7%94%B5%E5%95%86)
-中展示了一个完整的多端应用源码。 以便于从项目级别的场景下了解应用的整体关系和部分业务逻辑处理示例。
-
 项目其他文件夹还包括了一些常用的页面模板，例如：仿朋友圈导航栏、仿淘宝首页和聊天界面等。
 
 ## 3. 《企业展示》[company-display](https://github.com/apicloudcom/company-display) ![](https://img.shields.io/github/stars/apicloudcom/company-display?style=social)
