@@ -11,7 +11,7 @@
 该项目是为了向大家介绍多端技术 AVM.js 上手演示项目文档。 仓库重点关注 README.md 中的上手步骤文本。 可以通过该文档，从 0 到 1 搭建项目工具环境、创建项目、预览体验等基本操作。
 另外还附带了提交打包等后续操作说明。推荐新手阅读使用。
 
-## 2. 《组件合集 + 每日优鲜》[avm-simple](https://github.com/apicloudcom/avm-simple) ![](https://img.shields.io/github/stars/apicloudcom/avm-simple?style=social)
+## 2. 《组件合集》[avm-simple](https://github.com/apicloudcom/avm-simple) ![](https://img.shields.io/github/stars/apicloudcom/avm-simple?style=social)
 
 ` 源码地址 ` https://github.com/apicloudcom/avm-simple
 
