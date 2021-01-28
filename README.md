@@ -11,7 +11,7 @@
 该项目是为了向大家介绍多端技术 AVM.js 上手演示项目文档。 仓库重点关注 README.md 中的上手步骤文本。 可以通过该文档，从 0 到 1 搭建项目工具环境、创建项目、预览体验等基本操作。
 另外还附带了提交打包等后续操作说明。推荐新手阅读使用。
 
-## 2. 《组件合集 + 每日优鲜》[avm-simple](https://github.com/apicloudcom/avm-simple) ![](https://img.shields.io/github/stars/apicloudcom/avm-simple?style=social)
+## 2. 《组件合集》[avm-simple](https://github.com/apicloudcom/avm-simple) ![](https://img.shields.io/github/stars/apicloudcom/avm-simple?style=social)
 
 ` 源码地址 ` https://github.com/apicloudcom/avm-simple
 
@@ -20,9 +20,6 @@
 
 在项目的 [组件集合示例](https://github.com/apicloudcom/avm-simple/tree/master/%E7%BB%84%E4%BB%B6%E7%A4%BA%E4%BE%8B%E5%90%88%E9%9B%86)
 中展示了基础组件的调用效果，可以体验和预览组件的样式和交互。
-
-在项目的 [多端案例-生鲜电商](https://github.com/apicloudcom/avm-simple/tree/master/%E5%A4%9A%E7%AB%AF%E6%A1%88%E4%BE%8B-%E7%94%9F%E9%B2%9C%E7%94%B5%E5%95%86)
-中展示了一个完整的多端应用源码。 以便于从项目级别的场景下了解应用的整体关系和部分业务逻辑处理示例。
 
 项目其他文件夹还包括了一些常用的页面模板，例如：仿朋友圈导航栏、仿淘宝首页和聊天界面等。
 
