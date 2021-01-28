@@ -89,7 +89,7 @@ APICloud [数据云3.0](https://docs.apicloud.com/Cloud-API/sentosa?uzchannel=30
 
 ![preview](https://github.com/apicloudcom/education-training/raw/main/docs/preview.jpg)
 
-## 6. 《生鲜电商》[fresh-ec](https://github.com/apicloudcom/fresh-ec) ![](https://img.shields.io/github/stars/apicloudcom/fresh-ec?style=social)
+## 7. 《生鲜电商》[fresh-ec](https://github.com/apicloudcom/fresh-ec) ![](https://img.shields.io/github/stars/apicloudcom/fresh-ec?style=social)
 
 ` 源码地址 ` https://github.com/apicloudcom/fresh-ec
 
