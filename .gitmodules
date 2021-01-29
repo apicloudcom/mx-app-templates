@@ -22,3 +22,7 @@
 	path = fresh-ec
 	url = https://github.com/apicloudcom/fresh-ec/
 	branch = main
+[submodule "group-ec"]
+	path = group-ec
+	url = https://github.com/apicloudcom/group-ec
+	branch = master
