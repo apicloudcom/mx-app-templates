@@ -1,9 +1,11 @@
 [submodule "hello-app"]
 	path = hello-app
 	url = https://github.com/apicloudcom/hello-app
+	branch = main
 [submodule "company-display"]
 	path = company-display
 	url = https://github.com/apicloudcom/company-display
+	branch = main
 [submodule "ordering-food"]
 	path = ordering-food
 	url = https://github.com/apicloudcom/ordering-food
@@ -11,9 +13,11 @@
 [submodule "online-dress"]
 	path = online-dress
 	url = https://github.com/apicloudcom/online-dress
+	branch = main
 [submodule "avm-simple"]
 	path = avm-simple
 	url = https://github.com/apicloudcom/avm-simple
+	branch = master
 [submodule "education-training"]
 	path = education-training
 	url = https://github.com/apicloudcom/education-training
