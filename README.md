@@ -101,7 +101,6 @@ APICloud [数据云3.0](https://docs.apicloud.com/Cloud-API/sentosa?uzchannel=30
 
 ![preview](https://github.com/apicloudcom/fresh-ec/raw/main/docs/preview.jpg)
 
-
 ## 8. 《拼团商城》[group-ec](https://github.com/apicloudcom/group-ec) ![](https://img.shields.io/github/stars/apicloudcom/group-ec?style=social)
 
 ` 源码地址 ` https://github.com/apicloudcom/group-ec
@@ -110,8 +109,23 @@ APICloud [数据云3.0](https://docs.apicloud.com/Cloud-API/sentosa?uzchannel=30
 此项目为拼团商城类型，主要功能包括商品分类、商品详情、商品搜索、拼团、订单管理等。
 
 ` 技术要点 `
-项目中前端采用 avm 多端开发技术进行开发，要点包括 TabLayout 布局、swiper 轮播图、rich-text 富文本、scroll-view 滚动视图、下拉刷新、组件封装等。使用 APICloud 多端技术进行开发，实现一套代码多端运行，支持编译成 Android & iOS App 以及微信小程序。
+项目中前端采用 avm 多端开发技术进行开发，要点包括 TabLayout 布局、swiper 轮播图、rich-text 富文本、scroll-view 滚动视图、下拉刷新、组件封装等。使用 APICloud
+多端技术进行开发，实现一套代码多端运行，支持编译成 Android & iOS App 以及微信小程序。
 
 ` 截图展示 `
 
 ![preview](https://github.com/apicloudcom/group-ec/raw/master/docs/preview.jpg)
+
+## 9. 《AVM Component & Template》[act](https://github.com/apicloudcom/act) ![](https://img.shields.io/github/stars/apicloudcom/act?style=social)
+
+` 源码地址 ` https://github.com/apicloudcom/act
+
+` 项目说明 `
+ACT：AVM Component & Template 。Vant 组件库的 AVM 实现。
+
+` 技术要点 `
+本项目是一个组件框架级的实现示例，可以借助此项目学习研究系统性组件设计和开发。补充了引擎的很多特性，包括slot插槽等。 另外还有大量的业务场景模板持续加入中。
+
+` 截图展示 `
+
+![preview](https://github.com/apicloudcom/act/raw/main/widget/components/act/cover.jpg)
