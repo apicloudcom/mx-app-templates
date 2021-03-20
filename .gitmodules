@@ -30,3 +30,7 @@
 	path = group-ec
 	url = https://github.com/apicloudcom/group-ec
 	branch = master
+[submodule "act"]
+	path = act
+	url = https://github.com/apicloudcom/act.git
+	branch = main
